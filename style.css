@@ -15,7 +15,7 @@ span{
 }
 .calculadora{
     position: absolute;
-    background-color: rgba(0, 0, 0, 0.199);
+    background-color: rgba(0, 0, 0, 0.8);
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
@@ -29,7 +29,7 @@ span{
     font-size: 25px;
     cursor: pointer;
     margin: 3px;
-    background-color: rgba(0, 0, 0, 0.479);
+    background-color: rgba(80, 80, 80, 0.479);
     border: none;
     border-radius: 50px;
     color: rgb(0, 211, 11);
@@ -48,7 +48,4 @@ span{
     color: black;
     text-align: right;
     padding: 5px;
-}
-#icone{
-    color: red;
 }
